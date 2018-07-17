@@ -1,0 +1,20 @@
+{
+  "name": "vuellapse",
+  "version": "0.0.2",
+  "description": "An awesome collapsible vue component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "collapse",
+    "accordion",
+    "vue"
+  ],
+  "author": "Wombat Astronaut",
+  "license": "ISC"
+}
